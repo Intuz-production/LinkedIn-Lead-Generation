@@ -13,6 +13,7 @@
 # Personalized sales outreach from LinkedIn job signals with Apify & Google Gemini
 
 > Community nodes are used in this workflow. This template can only be used on **self-hosted n8n instances**.
+<img width="1021" height="479" alt="Overview_f6ae317cd5" src="https://github.com/user-attachments/assets/a61d708c-3ba4-4a4f-a222-fc733c558d7c" />
 
 This n8n template from Intuz provides a complete and automated solution for identifying high-intent leads from LinkedIn job postings and automatically generating personalized outreach emails.
 
